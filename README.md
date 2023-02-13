@@ -15,10 +15,10 @@
 https://www.youtube.com/watch?v=emlvyKS1YS0&ab_channel=JanghoNa
 
 ## 구현기능
-* 비동기 I/O 입출력
-* 실시간 IOCP서버
-* 데이터베이스를 통한 로그인 & 회원가입기능
-* 채팅 기능(Broadcast 기법)
-* 서버 성능 테스트
+* 
+* 
+* 
+* 
+* 
 
 ## 아쉬운점 및 한계점
