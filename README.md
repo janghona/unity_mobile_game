@@ -15,10 +15,10 @@
 https://www.youtube.com/watch?v=emlvyKS1YS0&ab_channel=JanghoNa
 
 ## 구현기능
-* 
-* 
-* 
-* 
+* 모바일 턴제 전투 기능
+* NGUI를 이용한 모바일 UI/UX 구현
+* 스킬 이펙트 구현
+* 애니메이션 구현
 * 
 
 ## 아쉬운점 및 한계점
